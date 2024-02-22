@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WuSparkDesk.cpp.obj": [
+			"WuCrypto.gen.cpp.obj",
+			"WuSparkDesk.init.gen.cpp.obj",
+			"WuSparkDeskSubsystem.gen.cpp.obj",
+			"WuSparkDeskWebSocket.gen.cpp.obj",
+			"WuCrypto.cpp.obj",
+			"WuMessageInterface.cpp.obj",
+			"WuSparkDesk.cpp.obj",
+			"WuSparkDeskSubsystem.cpp.obj",
+			"WuSparkDeskWebSocket.cpp.obj"
+		]
+	}
+}
